@@ -1,0 +1,16 @@
+{
+  "auc": 0.766,
+  "gini": 0.533,
+  "test_rows": 200,
+  "default_rate": 0.3,
+  "features": [
+    "duration",
+    "credit_amount",
+    "installment_rate",
+    "checking_status",
+    "credit_history",
+    "savings_status",
+    "employment"
+  ],
+  "trained_at": "2026-10-16T10:39:52+00:00"
+}
